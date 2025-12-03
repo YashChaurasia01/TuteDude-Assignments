@@ -15,7 +15,7 @@ This assignment contains two simple Python programs that practice:
 
 ---
 
-## 1. `tuteDA1Q1.py` – Basic Arithmetic Calculator
+## 📐1. `tuteDA1Q1.py` – Basic Arithmetic Calculator
 
 This program:
 
@@ -34,7 +34,7 @@ This program:
 3. Performs `+`, `-`, `*`, and `/` operations.
 4. Displays the results using formatted print statements (`f-strings`).
 
-### Example Usage
+### ▶Example Usage
 
 ```text
 Enter the first number: 5
