@@ -44,4 +44,35 @@ Addition: 15
 Subtraction: -5
 Multiplication: 50
 Division: 0.5
+```
+
+## 😀 2. `tuteDA1Q2.py` – Name Greeting Program
+
+This program:
+
+- Prompts the user to enter their **first name** and **second/last name**
+- Formats both names properly
+- Displays a personalized welcome message  
+- Uses string methods and f-strings for clean output  :contentReference[oaicite:0]{index=0}
+
+---
+
+### 🛠 How It Works
+
+1. The program uses `input()` to collect the user's first name and second name.  
+2. It applies the `.title()` method to ensure the first letter of each name is capitalized.  
+3. Combines the names with a space to form a full name.  
+4. Prints a greeting using an f-string in a clean, readable format.  
+
+---
+
+### ▶ Example Usage
+
+```text
+Enter your first name: Yash
+Enter your second name: Chaurasia
+
+Hello, Yash Chaurasia! Welcome to the Python program.
+```
+
 
