@@ -15,7 +15,7 @@ This assignment contains two simple Python programs that practice:
 
 ---
 
-## 📐1. `tuteDA1Q1.py` – Basic Arithmetic Calculator
+## 📐 1. `tuteDA1Q1.py` – Basic Arithmetic Calculator
 
 This program:
 
@@ -27,14 +27,14 @@ This program:
   - Division  
 - Prints each result with a label in a clear format :contentReference[oaicite:1]{index=1}  
 
-### How It Works
+### 🛠 How It Works
 
 1. The program uses `input()` to read two numbers from the user.
 2. Converts them to integers using `int()`.
 3. Performs `+`, `-`, `*`, and `/` operations.
 4. Displays the results using formatted print statements (`f-strings`).
 
-### ▶Example Usage
+### ▶ Example Usage
 
 ```text
 Enter the first number: 5
