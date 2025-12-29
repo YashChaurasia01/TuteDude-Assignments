@@ -43,6 +43,7 @@ Enter an number: 7
 EX2:
 Enter an number: 12
 12 is an even number.
+```
 
 ## ➕ 2. `tuteDA2Q2.py` – Sum of Integers from 1 to 50
 
@@ -65,3 +66,4 @@ This program:
 
 ```text
 The sum of numbers from 1 to 50 is: 1275
+```
